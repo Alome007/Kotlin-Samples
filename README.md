@@ -4,10 +4,6 @@
 This repository contains all the example apps demonstrating features/integrations of different libraries/functionality in your android apps purely developed on Kotlin.
 <br><br>
 
-### Show some :heart: and star the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/amanjeetsingh150/kotlin-android-examples.svg?style=social&label=Star)](https://github.com/amanjeetsingh150/kotlin-android-examples) [![GitHub forks](https://img.shields.io/github/forks/amanjeetsingh150/kotlin-android-examples.svg?style=social&label=Fork)](https://github.com/amanjeetsingh150/kotlin-android-examples/fork) [![GitHub watchers](https://img.shields.io/github/watchers/amanjeetsingh150/kotlin-android-examples.svg?style=social&label=Watch)](https://github.com/amanjeetsingh150/kotlin-android-examples) [![GitHub followers](https://img.shields.io/github/followers/amanjeetsingh150.svg?style=social&label=Follow)](https://github.com/amanjeetsingh150/kotlin-android-examples)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/droid_singh.svg?style=social)](https://twitter.com/droid_singh)
 
 
 > NOTE: If you are going to download just a single example app (using the download link), make sure you follow the below procedure
